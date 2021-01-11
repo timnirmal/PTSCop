@@ -22,3 +22,8 @@
 * [Resources](the-k-flexion-rooby/resources.md)
 * [Accounts](the-k-flexion-rooby/accounts.md)
 
+## LMS - Learning Management System
+
+* [Planing](lms-learning-management-system/planing/README.md)
+  * [Payment Method Study](lms-learning-management-system/planing/payment-method-study.md)
+
