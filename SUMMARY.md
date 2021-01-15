@@ -27,3 +27,7 @@
 * [Planing](lms-learning-management-system/planing/README.md)
   * [Payment Method Study](lms-learning-management-system/planing/payment-method-study.md)
 
+## PTS Alerts
+
+* [Official Accounts](pts-alerts/official-accounts.md)
+
