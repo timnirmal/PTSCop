@@ -26,7 +26,23 @@ Name : Pts Corporations
 
 ### Ruby
 
-Emails from yandex
+#### Emails from Yandex
+
+ Email - [dulanjala@ptscooperation.com](mailto:dulanjala@ptscooperation.com) Password - ^0m8U5UT@Qpg
+
+#### Facebook
+
+Create with timnirmal 
+
+Give access to PTS Corp and Ruby
+
+#### Facebook Group - The K Army
+
+
+
+#### Instagram
+
+
 
 ### Kaari
 
