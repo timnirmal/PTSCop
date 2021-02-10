@@ -4,15 +4,31 @@
 
 {% embed url="https://ptscorpasia@gmail.com" %}
 
-0714408821
+Pass : 0714408821
 
-\#Dfz89jKl%
+## Facebook Account
 
-\#Histp54321
+Pass : \#Dfz89jKl% \(Might be the below one 😁\)
 
-1999 nov 11
+Pass : \#Histp54321
 
-PTS Corp
+Birthday : 1999 nov 11
+
+Name : Pts Corporations
+
+## Instagram
+
+## Linkedln
+
+
+
+## Blogs
+
+### Ruby
+
+Emails from yandex
+
+### Kaari
 
 
 
