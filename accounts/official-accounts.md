@@ -46,7 +46,21 @@ Give access to PTS Corp and Ruby
 
 ### Kaari
 
+#### Emails from Yandex
 
+  Email - [kariyapperuma@ptscooperation.com](mailto:kariyapperuma@ptscooperation.com) password - !Ww4576UzLOl
+
+#### Facebook
+
+Create with timnirmal 
+
+Give access to PTS Corp and Kaari
+
+#### Facebook Group - The K Army
+
+
+
+#### Instagram
 
 
 
