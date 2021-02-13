@@ -116,3 +116,25 @@ Give access to PTS Corp and Kaari
 
 
 
+## PTS Alerts
+
+Website : [http://alerts.pts.asia/](http://alerts.pts.asia/)
+
+Tagline : Stay Alert with PTS Alerts
+
+Description :
+
+Stay Alert with PTS Alert. We are news company based on Sri Lanka in Sinhala. We publish true news fast with trust. Join our Whatsapp group : [https://chat.whatsapp.com/H3dUpITthvEHUwXljaP9zY](https://chat.whatsapp.com/H3dUpITthvEHUwXljaP9zY)
+
+### Google
+
+ptsalert
+
+
+
+### Linkedin
+
+url : ptsalerts
+
+ 
+
