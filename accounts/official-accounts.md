@@ -82,6 +82,14 @@ Done
 
  Email - [dulanjala@ptscooperation.com](mailto:dulanjala@ptscooperation.com) Password - ^0m8U5UT@Qpg
 
+#### Gmail
+
+Email : thekflexion@gmail.com 
+
+Password : \#Histp54321
+
+Name : The K
+
 #### Facebook
 
 Create with timnirmal 
@@ -93,6 +101,10 @@ Give access to PTS Corp and Ruby
 
 
 #### Instagram
+
+Password : \#Hirooby54321
+
+
 
 
 
