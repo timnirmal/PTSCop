@@ -56,7 +56,7 @@ Name : PTS Corparation
 
 Public URL : ptscorporation
 
-
+[https://www.linkedin.com/company/71974555/admin/](https://www.linkedin.com/company/71974555/admin/) - For Company
 
 
 
@@ -135,6 +135,14 @@ ptsalert
 ### Linkedin
 
 url : ptsalerts
+
+Admin Link :
+
+[https://www.linkedin.com/showcase/71977261/admin/](https://www.linkedin.com/showcase/71977261/admin/) - For tim
+
+
+
+
 
  
 
