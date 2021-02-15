@@ -32,6 +32,8 @@ Birthday : 1999 nov 11
 
 Name : Pts Corporations
 
++94715188972
+
 ## Instagram
 
 Email : [https://ptscorpasia@gmail.com/](https://ptscorpasia@gmail.com/)
@@ -44,7 +46,7 @@ Username : PTSCorporations
 
 ## Linkedln
 
-Email : [https://ptscorpasia@gmail.com/](https://ptscorpasia@gmail.com/)
+Email : [ptscorpasia@gmail.com](https://ptscorpasia@gmail.com/)
 
 Pass : \#Histp54321
 
@@ -102,9 +104,15 @@ Give access to PTS Corp and Ruby
 
 #### Instagram
 
+thekflexion
+
 Password : \#Hirooby54321
 
+Phone Number : +94714231013
 
+{% hint style="info" %}
+Verification Requred
+{% endhint %}
 
 
 

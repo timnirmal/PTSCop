@@ -31,3 +31,7 @@
 
 * [Official Accounts](pts-alerts/official-accounts.md)
 
+## PTS Docs
+
+* [Social Media](pts-docs/social-media.md)
+
