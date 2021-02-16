@@ -40,6 +40,12 @@ web : [https://www.instagram.com/thekflexion/](https://www.instagram.com/thekfle
 
 
 
+## Twitter
+
+Web : [https://twitter.com/TheKFlexion](https://twitter.com/TheKFlexion)
+
+
+
 
 
 
