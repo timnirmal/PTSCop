@@ -8,6 +8,8 @@ Email : thekflexion@gmail.com
 
 Website : [http://thekflexion.pts.asia/](http://thekflexion.pts.asia/)
 
+Password : \#Hirooby54321
+
 Description :
 
 Hi there ! Welcome to 'K Flexion'.We're here to bring home ur favorite 'K' dramas, movies & Songs. Hope, the joy we bring as articles, will make u close to Korea. Promise, we'll make u proud of being a 'K' fan. Support & stay with us for a long long time.
@@ -29,6 +31,14 @@ Contact Details
 Other:
 
 Catogory
+
+
+
+## Instagram
+
+web : [https://www.instagram.com/thekflexion/](https://www.instagram.com/thekflexion/)
+
+
 
 
 
