@@ -18,6 +18,12 @@ Twitter : [https://twitter.com/teratronic\_](https://twitter.com/teratronic_)
 
 Instagram : [https://www.instagram.com/teratronic\_](https://www.instagram.com/teratronic_/)
 
+Linkedln : [https://www.linkedin.com/company/teratronic/](https://www.linkedin.com/company/teratronic/)
+
+
+
+Publishing tools -&gt; Bussiness account gyma page eka bussiness ekk weno \(insta connect karal hitiya\)
+
 
 
 
