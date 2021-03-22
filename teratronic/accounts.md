@@ -12,9 +12,11 @@ Email : teratronicinfo@gmail.com
 
 Password : \#tera12345
 
-Twitter :
+Mobile : +94718949585
 
-Instagram :
+Twitter : [https://twitter.com/teratronic\_](https://twitter.com/teratronic_)
+
+Instagram : [https://www.instagram.com/teratronic\_](https://www.instagram.com/teratronic_/)
 
 
 

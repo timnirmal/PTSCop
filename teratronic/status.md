@@ -1,12 +1,25 @@
 # Status
 
-* [ ] Name
-* [ ] Logo
+* [x] Name
+* [x] Logo
 * [ ] Alternative Forms
-* [ ] Web Domain
+* [x] Web Domain
 * [ ] Facebook Cover Image
 * [ ] Post Template
-* [ ] Gmail + Logo
+* [x] Gmail + Logo
 * [ ] Google Bussiness Registration
-* [ ] Yandex + Logo
-* [ ] 
+* [x] Yandex + Logo
+* [ ] d
+
+
+
+* [x] Facebook Page
+* [x] Profile Picture
+* [x] Page User Name & Details
+* [x] Instagram + User Name
+* [x] Twitter + User Name
+* [x] Linkedln + Company Page
+* [ ] Cover Pages for all
+
+
+
