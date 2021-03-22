@@ -38,5 +38,7 @@
 ## TeraTronic
 
 * [Basic](teratronic/basic.md)
+* [Accounts](teratronic/accounts.md)
 * [Gmail](teratronic/gmail.md)
+* [Status](teratronic/status.md)
 
