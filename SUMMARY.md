@@ -41,6 +41,7 @@
 * [Accounts](teratronic/accounts.md)
 * [Gmail](teratronic/gmail.md)
 * [Status](teratronic/status.md)
+* [Notes](teratronic/notes.md)
 
 ## Bloomy Spikes
 
