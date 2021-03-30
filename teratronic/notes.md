@@ -16,5 +16,17 @@ Check Later:
 
 {% embed url="https://www.linkedin.com/in/pts-corporation-13b912206/" %}
 
+{% embed url="https://www.linkedin.com/company/teratronic/about/?viewAsMember=true" %}
+
+{% embed url="https://www.wordtracker.com/academy/social/linkedin/create-company-page" %}
+
+{% embed url="https://www.facebook.com/help/1843115515813561" %}
+
+{% embed url="https://www.facebook.com/help/323314944866264?helpref=faq\_content" %}
+
+{% embed url="http://marketingforbusinesseu.com/?fbclid=IwAR3brJLA5\_NJ3tgMBbh\_gDlpUkg\_E51lDSrfrUked4gth37pA0Tf3SrwGEc" %}
+
+{% embed url="https://www.myfonts.com/tags/brandmark" %}
+
 
 

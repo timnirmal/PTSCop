@@ -20,7 +20,7 @@ Xerox Sans Serif Wild Oblique - Logo
 
 ### Logo : 
 
-![LOGO](../.gitbook/assets/logo-jpeg%20%282%29.jpg)
+![LOGO](../.gitbook/assets/logo-jpeg%20%282%29%20%281%29.jpg)
 
 {% file src="../.gitbook/assets/logo.png" caption="LOGO" %}
 
