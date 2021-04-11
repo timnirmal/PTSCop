@@ -16,6 +16,7 @@
 ## MCurry Foods
 
 * [Accounts](mcurry-foods/accounts.md)
+* [Products](mcurry-foods/products.md)
 
 ## The K Flexion - Rooby
 
