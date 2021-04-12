@@ -14,10 +14,10 @@ SKU List
 
 * mcurry-001 - Mustard Seeds \(අබ\) - 50 g
 * mcurry-002 - Mustard Seeds \(අබ\) - 100 g
-* mcurry-003 - Camboge
-* mcurry-004 - Camboge
-* mcurry-005 - Cumin Seeds
-* mcurry-006
+* mcurry-003 - Camboge - 50 g
+* mcurry-004 - Camboge - 100 g
+* mcurry-005 - Cumin Seeds - 50 g
+* mcurry-006 - Cumin Seeds - 100 g
 * mcurry-007 - Fennel Seeds
 * mcurry-008 - Coriander
 * mcurry-009 - 
